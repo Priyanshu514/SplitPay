@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/bb42f79a-8337-4e3a-a001-cba8b31f140f/microsoft.web/sites/subscriptions/bb42f79a-8337-4e3a-a001-cba8b31f140f/resourceGroups/Priyanshu_resource_group/providers/Microsoft.Web/sites/splitpay-virtualization-mongodb-123",
+    "appService.deploySubpath": "."
+}
